@@ -6,3 +6,4 @@ public class MyNoteBook extends NoteBook {
         System.out.println("MyNoteBook typing()");
     }
 }
+
